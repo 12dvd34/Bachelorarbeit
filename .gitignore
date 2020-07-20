@@ -1,0 +1,21 @@
+# Project exclude paths
+/venv/
+/__pycache__/
+/checkpoints/
+/data/
+/tests/embedding1.json
+/tests/embedding2.json
+/tests/embedding3.json
+/tests/embedding4.json
+/tests/embedding5.json
+/tests/embedding6.json
+/tests/embedding7.json
+/tests/embedding8.json
+/tests/matrix1.json
+/tests/matrix2.json
+/tests/matrix3.json
+/tests/matrix4.json
+/tests/matrix5.json
+/tests/matrix6.json
+/tests/matrix7.json
+/tests/matrix8.json
